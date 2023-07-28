@@ -1,0 +1,79 @@
+h1 {
+  font-size: 55px;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  font-size: 40px;
+  color: orange;
+}
+
+p {
+  font-size: 33px;
+  color: red;
+}
+
+#name1 {
+  color: blue;
+  font-family: arial;
+}
+
+#name2 {
+  color: green;
+  font-family: helvetica;
+}
+
+#name3 {
+  color: red;
+  font-family: sans-serif;
+}
+
+#name4 {
+  color: aqua;
+  font-family: comic-sans;
+}
+
+ul {
+  font-size: 35px;
+  color: blue;
+}
+
+ol {
+  font-size: 35px;
+  color: blue;
+}
+
+hr {
+  height: 5px;
+  background-color: purple;
+}
+
+#ws {
+  font-size: 55px;
+  text-align: center;
+}
+
+.darkMode {
+  color: #00ff33;
+  background: black;
+}
+
+#btn {
+  padding: 0;
+  background: none;
+  border: none;
+}
+
+#bti {
+  width: 70px;
+  height: 70px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+html {
+  cursor: crosshair;
+}
